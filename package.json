@@ -1,0 +1,24 @@
+{
+  "name": "react-style-object-to-css",
+  "version": "1.0.0",
+  "description": "Convert react style with object to inline css(string).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Calvin92/react-style-object-to-css.git"
+  },
+  "keywords": [
+    "React",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Calvin92",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Calvin92/react-style-object-to-css/issues"
+  },
+  "homepage": "https://github.com/Calvin92/react-style-object-to-css#readme"
+}
