@@ -1,6 +1,6 @@
 {
   "name": "react-style-object-to-css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert react style with object to inline css(string).",
   "main": "index.js",
   "scripts": {
