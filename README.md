@@ -1,5 +1,5 @@
 # Summary
-Convert React style with object to pure inline css (string).
+Convert React style defined as an object to pure inline css (string).
 
 # Example
 ```js
