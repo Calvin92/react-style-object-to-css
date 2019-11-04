@@ -3,7 +3,7 @@ Convert React style defined as an object to pure inline css (string).
 
 # Installation
 ```js
-	npm install react-style-object-to-css
+npm install react-style-object-to-css
 ```
 
 # Example
